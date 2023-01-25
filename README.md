@@ -1,6 +1,7 @@
 # WisdmLabs Engineering Best Practices
 
 These are the official best practices for WisdmLabs. This guide dictates how we, as a company, engineer websites. The purpose behind Avinash Kumar Jha 
+From Haldia Institute of Technology.
 ## Contributions
 
 We don't know everything! We welcome pull requests and spirited debates :)
